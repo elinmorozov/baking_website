@@ -146,6 +146,31 @@ body {
       width: 650px;
   }
 
+  .food_item_recipe {
+    text-align: left;
+    font-family: "Lobster";
+    padding: 0 30px;
+    text-decoration: none;
+    /* position: relative;
+    top: 35px;
+    right: 16px; */
+    color:maroon;
+    font-size: 40px;
+  }
+
+  .food_item_ingredient {
+    text-align: left;
+    font-family: "Lobster";
+    padding: 0 30px;
+    text-decoration: none;
+    /* position: relative;
+    top: 35px;
+    right: 16px; */
+    color:maroon;
+    font-size: 30px;
+  }
+
+
  
 
 
