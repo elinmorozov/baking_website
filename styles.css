@@ -103,6 +103,7 @@ body {
       display:flex;
       flex:1;
       justify-content: flex-end;
+      margin: 10px 0px;
   }
 
   .food_item_text_cell {
@@ -123,7 +124,7 @@ body {
   }
 
   .food_item_text {
-    text-align: right;
+    text-align: center;
     font-family: "Lobster";
     padding: 0 30px;
     text-decoration: none;
