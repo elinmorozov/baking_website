@@ -196,6 +196,18 @@ body {
     flex:1;
 }
 
+.food_item_about {
+    text-align: left;
+    font-family: "Lobster";
+    padding: 30px 45px;
+    text-decoration: none;
+    /* position: relative;
+    top: 35px;
+    right: 16px; */
+    color:maroon;
+    font-size: 50px;
+}
+
 
 
 
