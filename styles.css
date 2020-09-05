@@ -88,6 +88,11 @@ body {
       margin-right: auto;
   }
 
+  .contact_form {
+    display: flex;
+    justify-content: center;
+  }
+
   .page_text {
     text-align: center;
     font-family: "Lobster";
